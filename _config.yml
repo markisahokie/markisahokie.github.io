@@ -30,3 +30,12 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# existing content kept, add/merge this collections section (you already have newsletters; this shows pages collection)
+collections:
+  newsletters:
+    output: true
+    permalink: /newsletter/:path/
+  pages:
+    output: true
+    permalink: /:path/
