@@ -1,4 +1,4 @@
-# _config.yml
+# _config.yml (updated collections section)
 title: ALPFA Blacksburg Chapter
 email: your-email@alpfa-chapter.org
 description: >-
@@ -6,19 +6,22 @@ description: >-
 baseurl: "" # e.g. '/ALPFA-Website' if hosted in a subdirectory
 url: "https://yourusername.github.io" # e.g. 'https://yourusername.github.io'
 twitter_username: ALPFA
-github_username:  yourusername # Replace with your GitHub username
+github_username: yourusername
 
-# Build settings
 markdown: kramdown
-# theme: minima # You can remove this if using a custom setup
 plugins:
   - jekyll-feed
 
-# Collections for static blog posts (e.g., newsletters)
+# Collections
 collections:
   newsletters:
     output: true
-    permalink: /newsletter/:path/
+    # ensure plural here so collection items are under /newsletters/
+    permalink: /newsletters/:path/
+# (remove any duplicate 'collections:' blocks)
+    pages:
+    output: true
+    permalink: /:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -30,12 +33,3 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
-# existing content kept, add/merge this collections section (you already have newsletters; this shows pages collection)
-collections:
-  newsletters:
-    output: true
-    permalink: /newsletter/:path/
-  pages:
-    output: true
-    permalink: /:path/
