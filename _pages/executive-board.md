@@ -5,11 +5,6 @@ title: Executive Board
 ---
 
 # Meet Our Executive Board
-
-<!-- TODO: Add photos, names, titles, and brief bios for each officer. -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/exec-all.jpg' | relative_url }}" alt="Full E-Board" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
-    <div>
         
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
     <img src="{{ '/assets/img/exec-1.jpg' | relative_url }}" alt="Jocelyn Aguilar" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
