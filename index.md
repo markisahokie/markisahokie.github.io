@@ -4,7 +4,7 @@ layout: default
 title: Home
 ---
 
-# ALPFA at Virginia Tech!
+# ALPFA at Virginia Tech
 
 ## {{ site.description }}
 
