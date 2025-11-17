@@ -19,7 +19,7 @@ collections:
     # ensure plural here so collection items are under /newsletters/
     permalink: /newsletters/:path/
 # (remove any duplicate 'collections:' blocks)
-    pages:
+  pages:
     output: true
     permalink: /:path/
 
