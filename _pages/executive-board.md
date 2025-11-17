@@ -7,7 +7,7 @@ title: Executive Board
 # Meet Our Executive Board
         
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/exec-1.jpg' | relative_url }}" alt="Jocelyn Aguilar" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
+    <img src="{{ '/assets/img/exec-1.JPG' | relative_url }}" alt="Jocelyn Aguilar" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>President: Jocelyn Aguilar</h3>
         <p>Bio for Jocelyn goes here. Describe her role, background, and goals for the chapter.</p>
