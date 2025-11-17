@@ -4,7 +4,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to ALPFA Gotham City!
+# ALPFA at Virginia Tech!
 
 ## {{ site.description }}
 
@@ -16,9 +16,8 @@ title: Home
 
 ### About Us
 
-ALPFA (Association of Latino Professionals For America) is dedicated to empowering Latino leaders and fostering a strong community. Our Gotham City chapter provides resources, networking opportunities, and professional development tailored to our members' needs.
+ALPFA is a non-exclusive business organization within the Pamplin College of Business that seeks to connect students with the business community and foster valuable professional relationships with recruiters and current employees from many companies. We strive to promote diversity in the workforce and provide students with valuable connections, knowledge, and skills that will prove indispensable in their future career paths.
 
-We are driven by values of authenticity, equity, leadership, empowerment, belonging, community, joy, family, growth, compassion, strength, pride, and passion.
 
 ### Upcoming Events
 
