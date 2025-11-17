@@ -24,7 +24,7 @@ Check back soon for upcoming events and initiatives!
 
 ### Get Involved
 
-Join our community today! Connect with fellow professionals and advance your career.
+At a time when the business community desperately seeks talent and America’s young Latinos desperately seek opportunity, ALPFA is a bridge between the two resulting in thousands of Latino college students in paid professional internships and careers.  ALPFA develops the next generation of Latino professionals via experiential leadership development and mentoring from senior corporate executives, whom we empower into the C-suite and onto corporate boards. ALPFA is also a proven growth accelerator for Latino entrepreneurs, helping them to build networks, access capital, and scale much more rapidly by opening the door to significant business opportunities with our more than 200 Fortune 1000 partners. Join our community today! Connect with fellow professionals and advance your career.
 
 [Join Now](#) <!-- TODO: Link to membership or contact page -->
 [Contact Us](#) <!-- TODO: Link to contact page -->
