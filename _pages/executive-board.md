@@ -23,14 +23,6 @@ title: Executive Board
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/exec-2.JPG' | relative_url }}" alt="Brendan Alva" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
-    <div>
-        <h3>VP of Mentorship & Communications: Brendan Alva</h3>
-        <p>Bio for Brendan Alva goes here. Describe his role, background, and goals for the chapter.</p>
-    </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
     <img src="{{ '/assets/img/exec-2.JPG' | relative_url }}" alt="Neiver Morales-Perez" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Mentorship & Communications: Neiver Morales-Perez</h3>
