@@ -16,7 +16,7 @@ title: Home
 
 ### About Us
 
-ALPFA is a non-exclusive business organization within the Pamplin College of Business that seeks to connect students with the business community and foster valuable professional relationships with recruiters and current employees from many companies. We strive to promote diversity in the workforce and provide students with valuable connections, knowledge, and skills that will prove indispensable in their future career paths.
+ALPFA at Virginia Tech is a non-exclusive business organization within the Pamplin College of Business that seeks to connect students with the business community and foster valuable professional relationships with recruiters and current employees from many companies. We strive to promote diversity in the workforce and provide students with valuable connections, knowledge, and skills that will prove indispensable in their future career paths.
 
 
 ### Upcoming Events
