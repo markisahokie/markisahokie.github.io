@@ -4,7 +4,7 @@ title: Newsletter
 permalink: /newsletter/
 ---
 
-# ALPFA Gotham City Newsletter
+# ALPFA at VT Newsletter
 
 ## Latest Updates
 
