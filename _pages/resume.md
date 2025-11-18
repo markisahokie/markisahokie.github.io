@@ -8,11 +8,9 @@ title: Resume Submission
 
 Are you a member looking for career opportunities or an employer seeking talented Latino professionals? Submit resumes or job postings here.
 
-**Note:** This form uses `mailto:` which opens the user's default email client. For more robust handling (e.g., storing submissions, server-side processing), consider integrating with a form service compatible with GitHub Pages.
-
 ## Submit Your Resume
 
-<form action="mailto:careers@alpfa-gothamcity.org?subject=Resume%20Submission" method="post" enctype="multipart/form-data"> <!-- TODO: Replace with actual email address -->
+<form action="mailto:vtalpfa@gmail.com?subject=Resume%20Submission" method="post" enctype="multipart/form-data"> <!-- TODO: Replace with actual email address -->
     <label for="name">Full Name:</label>
     <input type="text" id="name" name="name" required>
 
