@@ -5,7 +5,7 @@ title: Constitution
 permalink: /constitution/ # This tells Jekyll to generate the page at /constitution/index.html
 ---
 
-# ALPFA Virginia Tech Chapter Constitution Summary Mark is Cool
+# ALPFA Virginia Tech Chapter Constitution Summary
 
 *Last Amended: July 17, 2025*
 
