@@ -24,7 +24,7 @@ permalink: /newsletter/
 <h2>Stay Informed</h2>
 <p>Our newsletter keeps you updated on chapter events, member highlights, professional development opportunities, and news relevant to the Latino professional community.</p>
 
-## Subcribe to Our Newsletter Find us on [Subscribe Here](https://tr.ee/IWSDL8Wd55)
+## Subcribe to Our Newsletter | [Subscribe Here](https://tr.ee/IWSDL8Wd55)
 
 
 <!-- Subscription Form (Placeholder - requires backend) -->
