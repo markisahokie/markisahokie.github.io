@@ -13,18 +13,8 @@ We'd love to hear from you! Whether you have questions about membership, events,
 
 ### General Inquiries
 *   **Email:** vtalpfa@gmail.com <!-- TODO: Replace with actual email -->
-*   **Social Media:** Find us on [LinkedIn](https://www.linkedin.com/company/alpfa), [Instagram](https://www.instagram.com/alpfa), [Facebook](https://www.facebook.com/ALPFA), and [Twitter/X](https://twitter.com/ALPFA) (links also in footer).
+*   **Social Media:** Find us on [LinkedIn](https://www.linkedin.com/company/alpfavt), [Instagram](https://www.instagram.com/vtalpfa), [GobblerConnect](https://gobblerconnect.vt.edu/organization/alpfaatvt), and [LinkTree](https://linktr.ee/vtalpfa) (links also in footer).
 
-### Specific Inquiries
-*   **Membership:** membership@alpfa-gothamcity.org <!-- TODO: Replace with actual email -->
-*   **Events:** events@alpfa-gothamcity.org <!-- TODO: Replace with actual email -->
-*   **Partnerships:** partnerships@alpfa-gothamcity.org <!-- TODO: Replace with actual email -->
-*   **Resume Submissions:** careers@alpfa-gothamcity.org <!-- TODO: Replace with actual email -->
-
-### Mailing Address
-ALPFA Gotham City Chapter <!-- TODO: Replace with actual address -->
-123 Main Street
-Gotham City, NY 12345
 
 ---
 
