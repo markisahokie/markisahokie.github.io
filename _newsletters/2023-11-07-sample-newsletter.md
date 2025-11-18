@@ -1,6 +1,6 @@
 ---
 # _collections/_newsletters/2023-11-07-sample-newsletter.md
-layout: post
+layout: default
 title: "November 2023 Newsletter: Fall Highlights"
 date: 2023-11-07 00:00:00 -0000
 categories: newsletter
