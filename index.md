@@ -27,5 +27,4 @@ Check back soon for upcoming events and initiatives!
 
 Join our community today! Connect with fellow professionals and advance your career.
 
-[Join Now](#) <!-- TODO: Link to membership or contact page -->
-[Contact Us](contact) <!-- TODO: Link to contact page -->
+[Contact Us](contact) 
