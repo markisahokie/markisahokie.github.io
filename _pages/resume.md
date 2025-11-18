@@ -8,7 +8,7 @@ title: Resume Submission
 
 Are you a member looking for career opportunities or an employer seeking talented Latino professionals? Submit resumes or job postings here.
 
-**Submit Your Resume** [Submit Here](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgobblerconnect.us17.list-manage.com%2Ftrack%2Fclick%3Fu%3D235348359a26562b5eba5607f%26id%3D9832254131%26e%3Da4de32db27&data=05%7C02%7Cmark05%40vt.edu%7C9060a42e95584e6f216808de26497ae7%7C6095688410ad40fa863d4f32c1e3a37a%7C0%7C0%7C638990294233383063%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pONkpmqIKeGOo6xKrrSINo59VV%2BVEbJwZA1Wp37Qt%2Bg%3D&reserved=0)
+## Submit Your Resume [Submit Here](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgobblerconnect.us17.list-manage.com%2Ftrack%2Fclick%3Fu%3D235348359a26562b5eba5607f%26id%3D9832254131%26e%3Da4de32db27&data=05%7C02%7Cmark05%40vt.edu%7C9060a42e95584e6f216808de26497ae7%7C6095688410ad40fa863d4f32c1e3a37a%7C0%7C0%7C638990294233383063%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pONkpmqIKeGOo6xKrrSINo59VV%2BVEbJwZA1Wp37Qt%2Bg%3D&reserved=0)
 
 ## Submit Your Resume
 
