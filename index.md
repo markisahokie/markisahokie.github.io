@@ -34,6 +34,4 @@ Check back soon for upcoming events and initiatives!
 
 ### Become a leader of tomorrow. Join the #ALPFAmilia 
 
-
-[Contact Us](contact) <!-- TODO: Link to contact page -->
-[Contact Us](https://gobblerconnect.vt.edu/organization/alpfaatvt)
+[Become a Member](https://gobblerconnect.vt.edu/organization/alpfaatvt)
