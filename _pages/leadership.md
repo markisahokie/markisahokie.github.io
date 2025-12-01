@@ -6,13 +6,13 @@ title: Leadership
 
 # Executive Board 2025-2026
 
-The ALPFA-VT Executive Board leads with purpose, collaboration,  and vision. This team of student leaders drives chapter strategy, plans impactful  programming, and ensures our operations align with ALPFA's mission and values.  From upholding our Bylaws to fostering inclusive growth, the board steers our  organization toward meaningful change on campus and beyond.
+#### The ALPFA-VT Executive Board leads with purpose, collaboration,  and vision. This team of student leaders drives chapter strategy, plans impactful  programming, and ensures our operations align with ALPFA's mission and values.  From upholding our Bylaws to fostering inclusive growth, the board steers our  organization toward meaningful change on campus and beyond.
         
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
     <img src="{{ '/assets/img/exec-1.JPG' | relative_url }}" alt="Jocelyn Aguilar" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>President: Jocelyn Aguilar</h3>
-        <p>Jocelyn Aguilar | President | Junior | Cybersecurity Management Analytics, Business Information Technology – Decision Support Systems | [LinkedIn](https://www.linkedin.com/in/jocelyn-aguilar-jma/)</p>
+        <h4>Jocelyn Aguilar | President | Junior | Cybersecurity Management Analytics, Business Information Technology – Decision Support Systems | [LinkedIn](https://www.linkedin.com/in/jocelyn-aguilar-jma/)</h4>
     </div>
 </div>
 
