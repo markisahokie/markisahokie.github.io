@@ -7,12 +7,8 @@ title: Home
 # ALPFA at Virginia Tech
 
 ## {{ site.description }}
+    <img src="{{ '/assets/img/Gal11.JPG' | relative_url }}" alt="VT ALPFA" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
 
-### Our Mission
-**Connect Latino Leaders for Impact.**
-
-### Our Tagline
-**Empowering Latino Leaders**
 
 ### What is ALPFA Student Chapter at Virginia Tech?
 
