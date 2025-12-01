@@ -38,9 +38,18 @@ title: Photo Gallery
 
 <div class="carousel">
   <div class="carousel-inner" id="carousel">
-    <div class="carousel-item"><img src="/assets/img/exec-1.JPG" alt="Photo 1"></div>
-    <div class="carousel-item"><img src="/assets/img/exec-2.JPG" alt="Photo 2"></div>
-    <div class="carousel-item"><img src="/assets/img/exec-3.JPG" alt="Photo 3"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal1.JPG" alt="Photo 1"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal2.JPG" alt="Photo 2"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal3.JPG" alt="Photo 3"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal4.JPG" alt="Photo 1"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal5.jpeg" alt="Photo 2"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal6.jpeg" alt="Photo 3"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal7.jpeg" alt="Photo 1"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal8.jpeg" alt="Photo 2"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal9.JPG" alt="Photo 3"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal10.jpeg" alt="Photo 1"></div>
+    <div class="carousel-item"><img src="/assets/img/Gal11.JPG" alt="Photo 2"></div>
+    <div class="carousel-item"><img src="/assets/img/exec-all.JPG" alt="Photo 3"></div
   </div>
   <div class="controls">
     <button onclick="prevSlide()">❮</button>
