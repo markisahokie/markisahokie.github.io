@@ -14,9 +14,20 @@ title: Home
 ### Our Tagline
 **Empowering Latino Leaders**
 
-### About Us
+### What is ALPFA Student Chapter at Virginia Tech?
 
-ALPFA is a non-exclusive business organization within the Pamplin College of Business that seeks to connect students with the business community and foster valuable professional relationships with recruiters and current employees from many companies. We strive to promote diversity in the workforce and provide students with valuable connections, knowledge, and skills that will prove indispensable in their future career paths.
+Founded in 2015, ALPFA-VT is a student chapter of the national ALPFA  organization, dedicated to empowering underrepresented students through  leadership development, mentorship, and community. As a non-exclusive  business organization within the Pamplin College of Business, we connect  students with industry professionals, promote workforce diversity, and equip  members with the skills and networks to thrive in their careers.
+
+### What is ALPFA? 
+
+The Association of Latino Professionals for America (ALPFA) is the  longest-standing Latino national professional association, consisting of chapters across the United States and Puerto Rico. ALPFA is dedicated to  enhancing opportunities for Latinos across all industries, including business related professions.
+
+ [Learn More] (ALPFA.org)
+
+###  Mission & Purpose
+Mission Statement: To empower and develop ALL students as leaders of  character for the nation, in every sector of the global economy. 
+
+Purpose Statement: To provide professional networking opportunities for such  professionals, and to advance their professional education goals.
 
 ### Upcoming Events
 
