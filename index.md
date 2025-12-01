@@ -8,8 +8,11 @@ title: Home
 
 ## {{ site.description }}
  
-<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/Gal11.JPG' | relative_url }}" alt="VT ALPFA" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> 
+<div style="margin-bottom: 2rem;">
+    <img 
+        src="{{ '/assets/img/Gal11.JPG' | relative_url }}" 
+        alt="VT ALPFA"
+        style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 
 
