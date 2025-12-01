@@ -3,7 +3,7 @@ layout: default
 title: Photo Gallery
 ---
 
-# 📸 My Photo Gallery
+# Photo Gallery
 
 <!-- Carousel HTML + CSS + JS below -->
 <style>
@@ -38,9 +38,9 @@ title: Photo Gallery
 
 <div class="carousel">
   <div class="carousel-inner" id="carousel">
-    <div class="carousel-item"><img src="/assets/img/exec1.jpg" alt="Photo 1"></div>
-    <div class="carousel-item"><img src="/assets/img/exec2.jpg" alt="Photo 2"></div>
-    <div class="carousel-item"><img src="/assets/img/exec3.jpg" alt="Photo 3"></div>
+    <div class="carousel-item"><img src="/assets/img/exec-1.jpg" alt="Photo 1"></div>
+    <div class="carousel-item"><img src="/assets/img/exec-2.jpg" alt="Photo 2"></div>
+    <div class="carousel-item"><img src="/assets/img/exec-3.jpg" alt="Photo 3"></div>
   </div>
   <div class="controls">
     <button onclick="prevSlide()">❮</button>
