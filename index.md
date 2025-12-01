@@ -7,7 +7,11 @@ title: Home
 # ALPFA at Virginia Tech
 
 ## {{ site.description }}
-    <img src="{{ '/assets/img/Gal11.JPG' | relative_url }}" alt="VT ALPFA" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
+ 
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+    <img src="{{ '/assets/img/Gal11.JPG' | relative_url }}" alt="VT ALPFA" style="width: 150px; height: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> 
+</div>
+
 
 
 ### What is ALPFA Student Chapter at Virginia Tech?
