@@ -39,8 +39,25 @@ Check back soon for upcoming events and initiatives!
 
 [Become a Member](https://gobblerconnect.vt.edu/organization/alpfaatvt)
 
-## Submit Your Resume | [Submit Here](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgobblerconnect.us17.list-manage.com%2Ftrack%2Fclick%3Fu%3D235348359a26562b5eba5607f%26id%3D9832254131%26e%3Da4de32db27&data=05%7C02%7Cmark05%40vt.edu%7C9060a42e95584e6f216808de26497ae7%7C6095688410ad40fa863d4f32c1e3a37a%7C0%7C0%7C638990294233383063%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pONkpmqIKeGOo6xKrrSINo59VV%2BVEbJwZA1Wp37Qt%2Bg%3D&reserved=0)
+### Submit Your Resume | [Submit Here](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgobblerconnect.us17.list-manage.com%2Ftrack%2Fclick%3Fu%3D235348359a26562b5eba5607f%26id%3D9832254131%26e%3Da4de32db27&data=05%7C02%7Cmark05%40vt.edu%7C9060a42e95584e6f216808de26497ae7%7C6095688410ad40fa863d4f32c1e3a37a%7C0%7C0%7C638990294233383063%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pONkpmqIKeGOo6xKrrSINo59VV%2BVEbJwZA1Wp37Qt%2Bg%3D&reserved=0)
 
-## Subcribe to Our Newsletter | [Subscribe Here](https://tr.ee/IWSDL8Wd55)
-<a href="https://tr.ee/IWSDL8Wd55" target="_blank" rel="noopener">Subscribe Here</a>
-
+### Subcribe to Our Newsletter | [Subscribe Here](https://tr.ee/IWSDL8Wd55)
+### <a href="https://tr.ee/IWSDL8Wd55" target="_blank" rel="noopener">Subscribe Here</a>
+<a 
+  href="https://tr.ee/IWSDL8Wd55" 
+  target="_blank" 
+  rel="noopener"
+  style="
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #1e40af; /* ALPFA blue (adjust as needed) */
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+  "
+  onmouseover="this.style.backgroundColor='#1d3f9f'; this.style.transform='scale(1.03)';"
+  onmouseout="this.style.backgroundColor='#1e40af'; this.style.transform='scale(1)';"
+>Subscribe Here</a>
