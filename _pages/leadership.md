@@ -121,7 +121,7 @@ title: Leadership
 <div class="intern-profile" style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
     <img src="{{ '/assets/img/DanielaBarrera.JPG' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
-        <h3>Daniela Barrer</h3>
+        <h3>Daniela Barrera</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
         <h4>Sophomore | Cybersecurity Management Analytics </h4>
             <a href="https://www.linkedin.com/in/daniela-barrera-escobar/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
