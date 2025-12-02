@@ -13,6 +13,7 @@ title: Leadership
     <div>
         <h3>President: Jocelyn Aguilar</h3>
         <h4>Jocelyn Aguilar | President | Junior | Cybersecurity Management Analytics, Business Information Technology – Decision Support Systems | [LinkedIn](https://www.linkedin.com/in/jocelyn-aguilar-jma/)</h4>
+                    <a href="https://www.linkedin.com/in/jocelyn-aguilar-jma/" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
 
@@ -88,7 +89,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
 
 <!-- Example structure for one intern -->
 <div class="intern-profile" style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/intern_placeholder.jpg' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
+    <img src="{{ '/assets/img/DavidVargas.JPG' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>David Vargas</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
@@ -98,7 +99,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
 
 <!-- Example structure for another intern -->
 <div class="intern-profile" style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/intern_placeholder.jpg' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
+    <img src="{{ '/assets/img/CarlosBarrios.JPG' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>Carlos Barrios</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
@@ -108,7 +109,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
 
 <!-- Example structure for another intern -->
 <div class="intern-profile" style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/intern_placeholder.jpg' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
+    <img src="{{ '/assets/img/DanielaBarrera.JPG' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>Daniela Barrer</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
@@ -118,7 +119,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
 
 <!-- Example structure for another intern -->
 <div class="intern-profile" style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/intern_placeholder.jpg' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
+    <img src="{{ '/assets/img/VanessaVillarroel.JPG' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>Vanessa Villarroel</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
@@ -128,7 +129,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
 
 <!-- Example structure for another intern -->
 <div class="intern-profile" style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
-    <img src="{{ '/assets/img/intern_placeholder.jpg' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
+    <img src="{{ '/assets/img/JovanyVelazquez.JPG' | relative_url }}" alt="Intern Name" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>Jovany Velazquez</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
