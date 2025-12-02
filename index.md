@@ -289,6 +289,7 @@ function showSlide(index) {
 }
 function nextSlide() { showSlide(currentIndex + 1); }
 function prevSlide() { showSlide(currentIndex - 1); }
+showSlide(0);
 // Optional: auto-advance every 4 seconds
 setInterval(nextSlide, 4000);
 </script>
