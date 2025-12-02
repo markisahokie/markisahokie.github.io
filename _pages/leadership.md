@@ -135,7 +135,7 @@ title: Leadership
         <h3>Vanessa Villarroel</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
         <h4>Sophomore  </h4>
-             <a href="https://www.linkedin.com/in/NEEDLINKEDIN/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
+             <a href="https://www.linkedin.com/in/vanessa-villarroel-b1a079385/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
 
