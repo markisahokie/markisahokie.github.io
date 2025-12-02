@@ -532,21 +532,44 @@ setInterval(nextSlide, 4000);
     <button onclick="nextSlide()">❯</button>
   </div>
 </div>
+
 <script>
 let currentIndex = 0;
-const items = document.querySelectorAll('.carousel-item');
-const total = items.length;
+let total = 0;
+
+function initCarousel() {
+  const items = document.querySelectorAll('.carousel-item');
+  total = items.length;
+  showSlide(0);
+  // Auto-advance every 4 seconds
+  setInterval(nextSlide, 4000);
+}
+
 function showSlide(index) {
   if (index >= total) currentIndex = 0;
   else if (index < 0) currentIndex = total - 1;
   else currentIndex = index;
-  document.getElementById('carousel').style.transform = `translateX(-${currentIndex * 100}%)`;
+  
+  const carousel = document.getElementById('carousel');
+  if (carousel) {
+    carousel.style.transform = `translateX(-${currentIndex * 100}%)`;
+  }
 }
-function nextSlide() { showSlide(currentIndex + 1); }
-function prevSlide() { showSlide(currentIndex - 1); }
-showSlide(0);
-// Optional: auto-advance every 4 seconds
-setInterval(nextSlide, 4000);
+
+function nextSlide() { 
+  showSlide(currentIndex + 1); 
+}
+
+function prevSlide() { 
+  showSlide(currentIndex - 1); 
+}
+
+// Initialize when DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initCarousel);
+} else {
+  initCarousel();
+}
 </script>
 
 <h3 id="thank-you-to-our-sponsers-1">Thank You To Our Sponsers</h3>
