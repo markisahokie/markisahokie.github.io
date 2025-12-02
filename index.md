@@ -117,13 +117,13 @@ setInterval(nextSlide, 4000);
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0;">
     <a href="https://your-link-1.com" target="_blank">
-        <img src="/assets/img/exec-3.jpg" alt="Description 1" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
+        <img src="/assets/img/exec-3.JPG" alt="Description 1" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
     <a href="https://your-link-2.com" target="_blank">
-        <img src="/assets/img/exec-1.jpg" alt="Description 2" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
+        <img src="/assets/img/exec-1.JPG" alt="Description 2" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
     <a href="https://your-link-3.com" target="_blank">
-        <img src="/assets/img/exec-2.jpg" alt="Description 3" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
+        <img src="/assets/img/exec-2.JPG" alt="Description 3" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
 </div>
 
