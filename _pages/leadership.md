@@ -12,8 +12,8 @@ title: Leadership
     <img src="{{ '/assets/img/exec-1.JPG' | relative_url }}" alt="Jocelyn Aguilar" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>President: Jocelyn Aguilar</h3>
-        <h4>Jocelyn Aguilar | President | Junior | Cybersecurity Management Analytics, Business Information Technology – Decision Support Systems | [LinkedIn](https://www.linkedin.com/in/jocelyn-aguilar-jma/)</h4>
-                    <a href="https://www.linkedin.com/in/jocelyn-aguilar-jma/" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
+        <h4>Jocelyn Aguilar | President | Junior | Cybersecurity Management Analytics, Business Information Technology – Decision Support Systems </h4>
+                    <a href="https://www.linkedin.com/in/jocelyn-aguilar-jma/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
 
