@@ -93,7 +93,7 @@ title: Leadership
 
 # Meet Our Interns
 
-The ALPFA-VT Internship Program is a year-long  commitment that offers a unique professional development opportunity  designed to cultivate individuals into dynamic and engaged community leaders equipped with the expertise to proficiently orchestrate, manage, and lead an  organization. ALPFA Interns will become familiar with the workflow of  organization operations and gain learning and shadowing opportunities across  ALPFA's team.
+#### The ALPFA-VT Internship Program is a year-long  commitment that offers a unique professional development opportunity  designed to cultivate individuals into dynamic and engaged community leaders equipped with the expertise to proficiently orchestrate, manage, and lead an  organization. ALPFA Interns will become familiar with the workflow of  organization operations and gain learning and shadowing opportunities across  ALPFA's team.
 
 <!-- Example structure for one intern -->
 <div class="intern-profile" style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
