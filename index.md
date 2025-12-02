@@ -189,7 +189,7 @@ a img:hover {
 }
 </style>
 <div class="carousel">
-  <div class="carousel-inner" id="carousel">
+  <div class="carousel-inner" id="carousel2">
     <div class="carousel-item"><img src="/assets/img/kpmg.png" alt="Photo 1"></div>
     <div class="carousel-item"><img src="/assets/img/rsm.png" alt="Photo 2"></div>
     <div class="carousel-item"><img src="/assets/img/ey.png" alt="Photo 3"></div>
@@ -265,7 +265,7 @@ setInterval(nextSlide, 4000);
 }
 </style>
 <div class="carousel">
-  <div class="carousel-inner" id="carousel2">
+  <div class="carousel-inner" id="carousel3">
     <div class="carousel-item"><img src="/assets/img/capitalone.png" alt="Photo 1"></div>
     <div class="carousel-item"><img src="/assets/img/kpmg.png" alt="Photo 2"></div>
     <div class="carousel-item"><img src="/assets/img/ey.png" alt="Photo 3"></div>
@@ -283,7 +283,7 @@ let currentIndex = 0;
 let total = 0;
 
 function initCarousel() {
-  const items = document.querySelectorAll('.carousel-item');
+  const items = document.querySelectorAll('#carousel3 .carousel-item');
   total = items.length;
   showSlide(0);
   // Auto-advance every 4 seconds
@@ -295,7 +295,7 @@ function showSlide(index) {
   else if (index < 0) currentIndex = total - 1;
   else currentIndex = index;
   
-  const carousel = document.getElementById('carousel');
+  const carousel = document.getElementById('carousel3');
   if (carousel) {
     carousel.style.transform = `translateX(-${currentIndex * 100}%)`;
   }
