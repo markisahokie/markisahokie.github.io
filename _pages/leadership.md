@@ -12,7 +12,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-1.JPG' | relative_url }}" alt="Jocelyn Aguilar" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>President: Jocelyn Aguilar</h3>
-        <h4>Jocelyn Aguilar | President | Junior | Cybersecurity Management Analytics, Business Information Technology – Decision Support Systems </h4>
+        <h4>Junior | Cybersecurity Management Analytics, Business Information Technology – Decision Support Systems </h4>
                     <a href="https://www.linkedin.com/in/jocelyn-aguilar-jma/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -21,7 +21,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-5.JPG' | relative_url }}" alt="Ester Herrera" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Outreach and Sponserships: Esther Herrera</h3>
-        <h4>Esther Herrera-Baldizon | VP of Outreach & Sponsorships | Junior | Cybersecurity Management Analytics </h4>
+        <h4>Junior | Cybersecurity Management Analytics </h4>
             <a href="https://www.linkedin.com/in/estherherrerab/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -30,7 +30,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-2.JPG' | relative_url }}" alt="Neiver Morales-Perez" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Mentorship & Communications: Neiver Morales-Perez</h3>
-        <h4>Neiver Morales Perez | VP of Communications & Mentorship | Junior | Business Information Technology – Operation Supply Chain Management </h4>
+        <h4>Junior | Business Information Technology – Operation Supply Chain Management </h4>
             <a href="https://www.linkedin.com/in/neivermoralesperez/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -39,7 +39,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-7.JPG' | relative_url }}" alt="Leslie Arroyo" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Recruitment & Events: Leslie Arroyo</h3>
-        <h4>Leslie Arroyo | VP of Recruitment & Events | Sophomore | Financial Planning and Wealth Management  </h4>
+        <h4>Sophomore | Financial Planning and Wealth Management  </h4>
             <a href="https://www.linkedin.com/in/leslie-arroyo-88a9b5326/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -48,7 +48,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-8.JPG' | relative_url }}" alt="Natalie Argueta" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Recruitment & Events: Natalie Argueta</h3>
-        <h4>Natalie Argueta | VP of Recruitment & Events | Senior | Marketing Management - Digital Marketing Strategies, Events and Experience Management Minor  </h4>
+        <h4>Senior | Marketing Management - Digital Marketing Strategies, Events and Experience Management Minor  </h4>
              <a href="https://www.linkedin.com/in/natalieargueta/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -57,7 +57,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-4.JPG' | relative_url }}" alt="Kristy Gomez" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Marketing: Kristy Gomez</h3>
-        <h4>Kristy Gomez | VP of Marketing | Sophomore | Cybersecurity Management Analytics  </h4>
+        <h4>Sophomore | Cybersecurity Management Analytics  </h4>
             <a href="https://www.linkedin.com/in/kristy-gomez30/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -66,7 +66,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-6.JPG' | relative_url }}" alt="Laura Echeverri" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Marketing: Laura Echeverri</h3>
-        <h4>Laura Echeverri | VP of Marketing | Senior | Psychology, Minor in Digital Marketing Strategy  </h4>
+        <h4>Senior | Psychology, Minor in Digital Marketing Strategy  </h4>
             <a href="https://www.linkedin.com/in/lauraechdz/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -75,7 +75,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-9.JPG' | relative_url }}" alt="Brendan Alva" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Finance: Brendan Alva</h3>
-        <h4>Brendan Alva | VP of Finance | Sophomore | FinTech and Big Data Analytics  </h4>
+        <h4>Sophomore | FinTech and Big Data Analytics  </h4>
              <a href="https://www.linkedin.com/in/brendan-alva/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -86,7 +86,7 @@ title: Leadership
     <img src="{{ '/assets/img/exec-3.JPG' | relative_url }}" alt="Christian Palomino" style="width: 150px; height: 150px; min-width: 150px; object-fit: cover; margin-right: 1rem; border-radius: 50%;"> <!-- TODO: Replace with actual image -->
     <div>
         <h3>VP of Marketing: Christian Palomino</h3>
-        <h4>Christian Palomino | VP of Operations | Senior | Cybersecurity Management Analytics + Business Information Technology – Operation Supply Chain Management </h4>
+        <h4>Senior | Cybersecurity Management Analytics + Business Information Technology – Operation Supply Chain Management </h4>
             <a href="https://www.linkedin.com/in/christian-palomin0/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -101,7 +101,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
     <div>
         <h3>David Vargas</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
-        <h4>David Vargas | ALPFA Intern | Junior | Computational and Systems Neuroscience  </h4>
+        <h4>Junior | Computational and Systems Neuroscience  </h4>
             <a href="https://www.linkedin.com/in/davidvargastkd/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -112,7 +112,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
     <div>
         <h3>Carlos Barrios</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
-        <h4>Carlos Barrios | ALPFA Intern | Junior | Cybersecurity Management Analytics  </h4>
+        <h4>Junior | Cybersecurity Management Analytics  </h4>
             <a href="https://www.linkedin.com/in/carlosdbarrios/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -123,7 +123,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
     <div>
         <h3>Daniela Barrer</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
-        <h4>Daniela Barrera | ALPFA Intern | Sophomore | Cybersecurity Management Analytics </h4>
+        <h4>Sophomore | Cybersecurity Management Analytics </h4>
             <a href="https://www.linkedin.com/in/daniela-barrera-escobar/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -134,7 +134,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
     <div>
         <h3>Vanessa Villarroel</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
-        <h4>Vanessa Villarroel | ALPFA Intern | Sophomore  </h4>
+        <h4>Sophomore  </h4>
              <a href="https://www.linkedin.com/in/NEEDLINKEDIN/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
@@ -145,7 +145,7 @@ The ALPFA-VT Internship Program is a year-long  commitment that offers a unique 
     <div>
         <h3>Jovany Velazquez</h3>
         <h4><strong>Role:</strong> ALPFA Intern</h4>
-        <h4>Jovany Velazquez | ALPFA Intern | Freshman | FinTech and Big Data Analytics </h4>
+        <h4>Freshman | FinTech and Big Data Analytics </h4>
              <a href="https://www.linkedin.com/in/jovany-velazquez-1a702337b/" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; background-color: #0077b5; color: white; text-decoration: none; border-radius: 4px;">LinkedIn Profile</a>
     </div>
 </div>
