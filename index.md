@@ -116,13 +116,13 @@ setInterval(nextSlide, 4000);
 #### Check back soon for upcoming events and initiatives!
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0;">
-    <a href="https://www.instagram.com/vtalpfa/#" target="_blank">
+    <a href="https://www.instagram.com/p/DQ9_xp7EcHm/?img_index=1" target="_blank">
         <img src="/assets/img/event1.png" alt="Description 1" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
-    <a href="https://www.instagram.com/vtalpfa/#" target="_blank">
+    <a href="https://www.instagram.com/p/DPpDLqykQhx/" target="_blank">
         <img src="/assets/img/event2.png" alt="Description 2" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
-    <a href="https://www.instagram.com/vtalpfa/#" target="_blank">
+    <a href="https://www.instagram.com/p/DQICmIekXl3/" target="_blank">
         <img src="/assets/img/event3.png" alt="Description 3" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
 </div>
