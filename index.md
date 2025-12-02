@@ -117,13 +117,13 @@ setInterval(nextSlide, 4000);
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0;">
     <a href="https://your-link-1.com" target="_blank">
-        <img src="/assets/img/image1.jpg" alt="Description 1" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
+        <img src="/assets/img/exec-3.jpg" alt="Description 1" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
     <a href="https://your-link-2.com" target="_blank">
-        <img src="/assets/img/image2.jpg" alt="Description 2" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
+        <img src="/assets/img/exec-1.jpg" alt="Description 2" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
     <a href="https://your-link-3.com" target="_blank">
-        <img src="/assets/img/image3.jpg" alt="Description 3" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
+        <img src="/assets/img/exec-2.jpg" alt="Description 3" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s;">
     </a>
 </div>
 
@@ -136,6 +136,6 @@ a img:hover {
 
 ### Become a leader of tomorrow. Join the #ALPFAmilia 
 
-#### <a href="[https://tr.ee/IWSDL8Wd55](https://gobblerconnect.vt.edu/organization/alpfaatvt)" target="_blank" rel="noopener">Become a Member</a>
+#### <a href="https://gobblerconnect.vt.edu/organization/alpfaatvt" target="_blank" rel="noopener">Become a Member</a>
 #### <a href="https://tr.ee/IWSDL8Wd55" target="_blank" rel="noopener">Subscribe To Our Newsletter</a>
-#### <a href="[https://tr.ee/IWSDL8Wd55](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgobblerconnect.us17.list-manage.com%2Ftrack%2Fclick%3Fu%3D235348359a26562b5eba5607f%26id%3D9832254131%26e%3Da4de32db27&data=05%7C02%7Cmark05%40vt.edu%7C9060a42e95584e6f216808de26497ae7%7C6095688410ad40fa863d4f32c1e3a37a%7C0%7C0%7C638990294233383063%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pONkpmqIKeGOo6xKrrSINo59VV%2BVEbJwZA1Wp37Qt%2Bg%3D&reserved=0)" target="_blank" rel="noopener">Submit Your Resume</a>
+#### <a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgobblerconnect.us17.list-manage.com%2Ftrack%2Fclick%3Fu%3D235348359a26562b5eba5607f%26id%3D9832254131%26e%3Da4de32db27&data=05%7C02%7Cmark05%40vt.edu%7C9060a42e95584e6f216808de26497ae7%7C6095688410ad40fa863d4f32c1e3a37a%7C0%7C0%7C638990294233383063%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pONkpmqIKeGOo6xKrrSINo59VV%2BVEbJwZA1Wp37Qt%2Bg%3D&reserved=0" target="_blank" rel="noopener">Submit Your Resume</a>
