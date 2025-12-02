@@ -202,13 +202,13 @@ a img:hover {
 </div>
 <script>
 let currentIndex = 0;
-const items = document.querySelectorAll('.carousel-item');
+const items = document.querySelectorAll('#carousel2 .carousel-item');
 const total = items.length;
 function showSlide(index) {
   if (index >= total) currentIndex = 0;
   else if (index < 0) currentIndex = total - 1;
   else currentIndex = index;
-  document.getElementById('carousel').style.transform = `translateX(-${currentIndex * 100}%)`;
+  document.getElementById('carousel2').style.transform = `translateX(-${currentIndex * 100}%)`;
 }
 function nextSlide() { showSlide(currentIndex + 1); }
 function prevSlide() { showSlide(currentIndex - 1); }
